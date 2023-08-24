@@ -6,6 +6,8 @@ Many people have tried to make sense of Terry Prachett's politics. A notable att
 
 ## Guards! Guards!: The Once and Never Kind 
 
+*Guards! Guards!*, published in 1989, was Terry Prachett's first mature novel. Whereas previous Discworld books were usually farces that moved through different locations, this book sees Prachett focus fully on the inner-workings of Ankh-Morpork, the metroplis at the center of many books.
+
 -Rule 1: Down with the kings
 -Rule 2: Down with ourselves
 -Rule 3: Up with the people 
