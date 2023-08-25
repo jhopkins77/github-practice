@@ -1,6 +1,6 @@
 # Prachett Job: Mapping the Political Development of the Discworld
 
-Many people have tried to make sense of Terry Prachett's politics. A notable attempt occured in [the pages of TOR] (https://www.tor.com/2019/07/15/the-tao-of-sir-terry-pratchett-and-political-philosophy/). *Unfortunately, it wasn't very good.*
+Many people have tried to make sense of Terry Prachett's politics. A notable attempt occured in [the pages of TOR](https://www.tor.com/2019/07/15/the-tao-of-sir-terry-pratchett-and-political-philosophy/). *Unfortunately, it wasn't very good.*
 
 **We are going to try to do better.** Through close textual readings, we are going to analyze five of Sir Terry's novels. In the process, we'll get to the bottom of his true thoughts on power and how it should be wielded.
 
